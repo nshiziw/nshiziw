@@ -18,12 +18,9 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 # 📊 GitHub Stats
 
-<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nshiziw&layout=compact" >
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nshiziw&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" >
 
-<img alt="my stats" align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=nshiziw&show_icons=true&bg_color=00000000" >
-
-![](https://github-readme-stats.vercel.app/api?username=nshiziw&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nshiziw&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img alt="my stats" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nshiziw&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" >
 
 ## 🏆 GitHub Trophies
 
@@ -32,10 +29,3 @@ I'm a software engineer who is passionate about making contributing to open-sour
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=nshiziw&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=nshiziw&icon=2&color=1)](https://visitcount.itsvg.in)
