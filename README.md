@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Wilson Nshizirungu
 
-![I am Software Engineer](https://media.licdn.com/dms/image/v2/D4D16AQER7oDgEhbvfg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729164104158?e=1734566400&v=beta&t=fg4Kv63GEq7KhqEThDu__Zp6y8yVfz3TKsc7U3ZxaiM)
+![I am Software Engineer](https://media.licdn.com/dms/image/v2/D4D16AQER7oDgEhbvfg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729164104158?e=1740614400&v=beta&t=xreTErsVMOmYS3VQak9O0wfPZr-Ra-NpJjyB1-UpAZQ)
 
 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community.
 
