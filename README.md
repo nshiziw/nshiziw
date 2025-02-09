@@ -2,11 +2,11 @@
 
 ![I am Software Engineer](https://media.licdn.com/dms/image/v2/D4D16AQER7oDgEhbvfg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729164104158?e=1740614400&v=beta&t=xreTErsVMOmYS3VQak9O0wfPZr-Ra-NpJjyB1-UpAZQ)
 
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community.
+I am a website developer with a focus on creating dynamic, user-friendly, and high-performing websites. I’m dedicated to delivering tailored web solutions that meet your needs and provide a seamless experience. Let’s bring your ideas to life!
 
 # 💫 About Me
 
-🔭 I’m currently working on real world projects<br>👯 I’m looking to collaborate on website development<br>🤝 I’m looking for help with backend development<br>🌱 I’m currently learning Node.js<br>💬 Ask me about HTML, CSS, JavaScript, Tailwind, React.js, PHP, MySQL<br>⚡ Fun fact: have lots of projects in mind
+🔭 I’m currently working on real world projects<br>👯 I’m looking to collaborate on website development<br>🤝 I’m looking for support with backend development<br>🌱 I’m currently learning Node JS/Express JS<br>💬 Ask me about HTML, CSS, JavaScript, SCSS, Tailwind, React.JS, PHP, MySQL<br>⚡ Fun fact: have lots of projects in mind
 
 ## 🌐 Socials
 
