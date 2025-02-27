@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Wilson Nshizirungu
 
-![I am Software Engineer](https://media.licdn.com/dms/image/v2/D4D16AQER7oDgEhbvfg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729164104158?e=1740614400&v=beta&t=xreTErsVMOmYS3VQak9O0wfPZr-Ra-NpJjyB1-UpAZQ)
+![I am Software Engineer](https://media.licdn.com/dms/image/v2/D4D16AQEjYc8kWROSSw/profile-displaybackgroundimage-shrink_350_1400/B4DZVD6ZP2G8AY-/0/1740601138141?e=1746057600&v=beta&t=5bpGfUPUegieu-94htnvNMX4ZaradKWF46HR0TSkfc0)
 
 I am a website developer with a focus on creating dynamic, user-friendly, and high-performing websites. I’m dedicated to delivering tailored web solutions that meet your needs and provide a seamless experience. Let’s bring your ideas to life!
 
